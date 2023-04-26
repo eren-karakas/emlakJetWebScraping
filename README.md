@@ -1,1 +1,1 @@
-"# emlakJetWebScraping" 
+I used 2 Python libraries this project. This are Selenium and BeautifulSoup. My purpose is get some datas for entered inputs and i want to make dataframe this datas because if i use dataframe i can stack to excel file this datas
