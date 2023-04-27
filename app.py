@@ -6,6 +6,7 @@ from selenium.webdriver import ActionChains
 from bs4 import BeautifulSoup
 import pandas as pd
 from unidecode import unidecode
+# Please open terminal and write 'pip install openpyxl'
 
 options = webdriver.ChromeOptions()
 options.add_experimental_option("detach", True)
